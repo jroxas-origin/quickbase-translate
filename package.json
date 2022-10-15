@@ -1,0 +1,12 @@
+{
+	"name": "translate",
+	"version": "1.0.0",
+	"description": "This Oracle function translates the C2M Payload into the Quickbase format",
+	"main": "func.js",
+	"author": "",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@fnproject/fdk": ">=0.0.17",
+		"axios": "^1.1.2"
+	}
+}
